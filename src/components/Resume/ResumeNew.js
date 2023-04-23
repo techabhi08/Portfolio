@@ -11,7 +11,6 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 const resumeLink =
   "https://raw.githubusercontent.com/techabhi08/portfolio/master/src/Assets/Abhinay_Garg_Resume_4thMay.pdf";
 
-
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
